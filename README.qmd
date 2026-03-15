@@ -1,0 +1,23 @@
+# qbitos{prefix-engine}
+
+Rust T5-native structural classifier (11 symbols, 59 languages).
+
+## Compliance Root
+
+- Canonical policy: `https://github.com/qbitOS/compliance`
+
+## Cross-Implementation Path
+
+`DAC -> Iron Line -> Prefixes -> Quantum Gutter -> .qbit -> preflight`
+
+## Control Envelope
+
+`DAC/Prefix/Steno/Iron-Line/Preflight/search-history controls`
+
+## Integration Targets
+
+- `qbitos-quantum-prefixes`
+- `qbitos-dac`
+- `qbitos-steno`
+- `qbitos-preflight`
+- `qbit`
